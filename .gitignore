@@ -12,7 +12,7 @@ env/
 # VSCode settings
 .vscode/
 
-# Streamlit cache
+# Streamlit cache 
 .streamlit/
 *.sqlite
 
