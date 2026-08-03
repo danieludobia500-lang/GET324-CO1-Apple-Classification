@@ -234,8 +234,7 @@ eliscosucess20-sudo   22/EG/CO/1760      Etim, Elijah Edet
 
 Donblast203           22/EG/CO/1770      Udo, Emediong Isaiah
 
-Prince-app-stack      22/EG/CO/1781
-John, Prince Kingsley 
+Prince-app-stack      22/EG/CO/1781      John, Prince Kingsley 
 
 
 # Conclusion
