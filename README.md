@@ -230,7 +230,7 @@ aharanwavicky-creator 22/EG/CO/1750      Aharanwa victor kemakolam
 
 lassbhorn51-oss       22/EG/CO/1700      UDOFIA BEST
 
-
+eliscosucess20-sudo   22/EG/CO/1760   Etim, Elijah Edet
 
 
 
