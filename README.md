@@ -216,9 +216,9 @@ ukemeinimfon42        22/EG/CO/1670      Udofa Inimfonabasi Ukeme
 
 pauldavid7172-gif     22/EG/CO/1650      Okonnah Paul David
 
-lilzeese2-wq          22/EG/CO/1681      Ikoh Iniobong Moses     
-Teejay-101            22/EG/CO/1730
-  Ottuk, Utibeabasi Josiah
+lilzeese2-wq          22/EG/CO/1681      Ikoh Iniobong Moses 
+
+Teejay-101            22/EG/CO/1730      Ottuk, Utibeabasi Josiah
 
 
 
