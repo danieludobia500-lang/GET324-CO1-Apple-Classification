@@ -223,8 +223,14 @@ Teejay-101            22/EG/CO/1730      Ottuk, Utibeabasi Josiah
 bjnnsewo-cyber        22/EG/CO/1820      Benjamin Joseph nnsewo 
 
 limmrax               22/EG/CO/1710      Urua, Edikan Usen
-aharanwavicky-creator 22/EG/CO/1750
-Aharanwa victor kemakolam 
+
+aharanwavicky-creator 22/EG/CO/1750      Aharanwa victor kemakolam 
+
+
+
+
+
+
 # Conclusion
 
 This project demonstrates how transfer learning with MobileNetV2 can be effectively applied to automate apple quality inspection through image classification. By integrating deep learning with a Streamlit web application, the system provides an efficient, accurate, and user-friendly solution for distinguishing between fresh and rotten apples. Such intelligent systems have promising applications in agriculture, food processing, retail, and supply chain quality control.
