@@ -4,9 +4,9 @@
 
 ## Project Overview
 
-This project presents a binary image classification web application that determines whether an uploaded apple image is **Fresh** or **Rotten**. The system leverages **MobileNetV2**, a lightweight deep learning model pretrained on ImageNet, through transfer learning to achieve high classification accuracy.
+This project presents a binary image classification web application that determines whether an uploaded apple image is **Fresh** or **Rotten**. The system leverages **MobileNetV2**, a lightweight deep learning model pre-trained on ImageNet, through transfer learning to achieve high classification accuracy.
 
-The trained model is integrated into a **Streamlit** web application, allowing users to upload an apple image and receive an instant prediction along with the model's confidence score. The application demonstrates the practical use of Artificial Intelligence and Computer Vision in food quality inspection and agricultural automation.
+The trained model is integrated into a **Streamlit** web application, allowing users to upload an apple image and receive an instant prediction along with the model's confidence score. The application demonstrates the practical use of Artificial Intelligence and Computer Vision in food quality inspection and agricultural automation. 
 
 
 ## Features
@@ -51,7 +51,7 @@ Before training, all images were preprocessed by:
 * Normalizing pixel values
 * Applying data augmentation techniques including:
 
-  * Random rotation
+  * Random rotation 
   * Horizontal flipping
   * Zooming
   * Shifting
